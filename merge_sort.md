@@ -11,6 +11,7 @@
 
 [8,11,12,16,21,22]
 
-Big-O: O(n*log n)
-
+Big-O: O(n*log n)  
+  
+  [patika.dev](https://www.patika.dev/tr)
 
